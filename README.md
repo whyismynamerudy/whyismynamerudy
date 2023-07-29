@@ -1,6 +1,6 @@
 ### hello world 🫡
 
-i'm rudy. i'm a young adult entering my 20's with a burning desire to build cool sh*t.
+i'm rudy. i'm a young adult entering my 20's with a burning desire to build cool sh!t.
 
 <!--
 **whyismynamerudy/whyismynamerudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
