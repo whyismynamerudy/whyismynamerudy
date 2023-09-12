@@ -6,6 +6,10 @@ i'm rudy. i'm a young adult entering my 20's with a burning desire to build cool
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/whyismynamerudy?theme=dark&font=Montserrat&ext=heatmap)
 
+***
+
+![](https://komarev.com/ghpvc/?username=whyismynamerudy)
+
 <!--
 **whyismynamerudy/whyismynamerudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
